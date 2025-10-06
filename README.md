@@ -1,10 +1,5 @@
 
-# API Tareas - Flask + Docker
-
-API REST básica para gestionar tareas (CRUD) con Flask.  
-Contiene `app.py`, `requirements.txt` y `Dockerfile`.
-
-# API REST con Flask y Docker
+# API REST con Flask + Docker
 
 Esta aplicación es una API REST básica desarrollada con Flask y ejecutada dentro de un contenedor Docker. 
 El `Dockerfile` usa una imagen base ligera de **Python 3.12-slim**, instala las dependencias definidas en `requirements.txt` (Flask y Werkzeug), 
